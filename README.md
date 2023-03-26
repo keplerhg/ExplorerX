@@ -7,15 +7,30 @@ Nuestra revista es una publicación que tiene como objetivo difundir conocimient
 Publicamos semanalmente, todos los domingos, en nuestro sitio web: https://keplerhg.github.io/kepler_py/.
 
 # Categorías de la Revista
-En nuestra revista publicamos artículos de investigación en las siguientes áreas temáticas:
+En nuestra revista publicamos artículos en las siguientes áreas temáticas:
 
-- Ingeniería
-- Ciencia
-- Tecnología
-- Naturaleza
-- Ingeniería Civil
-- Temas afines
-- 
+- Ingeniería (de materiales, mecánica, eléctrica y química).
+- Ciencia.
+- Tecnología.
+- Naturaleza.
+- Medio ambiente y sostenibilidad.
+- Energías renovables.
+- Inteligencia artificial.
+- Big data y análisis de datos.
+- Temas afines.
+
+# En Ingeniería civil:
+
+- Estructuras y materiales de construcción.
+- Geotecnia y cimentaciones.
+- Ingeniería de transporte y carreteras.
+- Ingeniería hidráulica y de recursos hídricos.
+- Diseño y construcción de puentes y estructuras elevadas.
+- Gestión de proyectos de construcción y obras civiles.
+- Seguridad en la construcción.
+- Ingeniería sísmica y resistencia de estructuras a terremotos.
+
+
 # Publicaciones
 Cada semana, publicamos artículos de investigación en las áreas temáticas mencionadas anteriormente. Buscamos presentar un amplio espectro de temas de interés para nuestros lectores.
 
