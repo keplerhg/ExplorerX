@@ -51,7 +51,7 @@ Visita nuestro **NEWSLETTER** de LinkedIn llamado ["Explorer X: The Duality"](ht
 
 Encuentranos en:
 
-**[Patreon](https://www.patreon.com/kepler_ai).**
+**[Patreon](https://www.patreon.com/kepler_ai)**
 
 **[Twitter](https://twitter.com/kepler_py)**
 
