@@ -44,10 +44,14 @@ Los miembros del Comité Editorial revisan y evalúan los artículos presentados
 
 # Contacto
 Si tiene alguna pregunta o comentario sobre nuestra revista, no dude en ponerse en contacto con nosotros a través de nuestro sitio web **(https://keplerhg.github.io/kepler_py/)**.
-O mediante nuestro **NEWSLETTER** de LinkedIn llamado "Explorer X: The Duality".
-_Patreon: https://www.patreon.com/kepler_ai
-También en redes sociales:
-_Twitter: @kepler_py
-_Medium: https://medium.com/@kepler.huaynate
+
+
+Visita nuestro **NEWSLETTER** de LinkedIn llamado "Explorer X: The Duality".
+
+
+Encuentranos en:
+_Patreon: https://www.patreon.com/kepler_ai_
+_Twitter: @kepler_py_
+_Medium: https://medium.com/@kepler.huaynate_
 
 **Agradecemos su interés en nuestra revista de electrónica.
