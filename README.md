@@ -33,7 +33,7 @@ En nuestra revista publicamos artículos en las siguientes áreas temáticas:
 
 
 # Publicaciones
-Cada semana, publicamos artículos de investigación en las áreas temáticas mencionadas anteriormente. Buscamos presentar un amplio espectro de temas de interés para nuestros lectores.
+Publicamos cada semana artículos en las áreas temáticas mencionadas anteriormente. Buscamos presentar un amplio espectro de temas de interés para nuestros lectores.
 
 # Cómo publicar en nuestra Revista
 Si está interesado en publicar en nuestra revista, le recomendamos revisar nuestras políticas editoriales en nuestro sitio web. Los artículos deben ser originales y no deben haber sido publicados previamente en ninguna otra revista.
