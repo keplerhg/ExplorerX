@@ -1,6 +1,6 @@
 # Explorer X: The Duality
 _Revista de Investigación_
-**Bienvenido al sitio web de la Revista de Investigación, donde publicamos artículos de investigación en el campo de la ingeniería, ciencia, tecnología y naturaleza.
+**Bienvenido al sitio web de la Revista de Investigación, donde publicamos artículos de investigación en el campo de la ingeniería, ciencia, tecnología y naturaleza.**
 
 # Acerca de la Revista
 Nuestra revista es una publicación que tiene como objetivo difundir conocimiento científico y tecnológico relevante. Nos enfocamos en artículos de investigación originales que sean rigurosos, innovadores y contribuyan al avance del conocimiento en su respectivo campo.
