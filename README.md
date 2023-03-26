@@ -5,7 +5,7 @@ _Revista de Investigación_
 
 # Acerca de la Revista
 Nuestra revista es una publicación que tiene como objetivo difundir conocimiento científico y tecnológico relevante. Nos enfocamos en artículos de investigación originales que sean rigurosos, innovadores y contribuyan al avance del conocimiento en su respectivo campo.
-Publicamos semanalmente, todos los domingos, en nuestro sitio web: [Explorer X](https://keplerhg.github.io/ExplorerX/).
+Publicamos semanalmente, todos los domingos, en nuestro sitio web: [Explorer X](https://keplerhg.github.io/ExplorerX/) y ["Explorer X: The Duality"](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7041250196361482240).
 
 # Categorías de la Revista
 En nuestra revista publicamos artículos en las siguientes áreas temáticas:
