@@ -57,4 +57,4 @@ Encuentranos en:
 
 **[Medium](https://medium.com/@kepler.huaynate)**
 
-**Agradecemos su interés en nuestra revista de electrónica.**
+**Agradecemos su interés en nuestra revista electrónica.**
